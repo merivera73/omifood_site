@@ -1,0 +1,19 @@
+/* ========== Small Phone 0 to 480 ========== */
+@media only screen and (max-width: 480px) {
+}
+
+/* ========== Phone 480 to 767 ========== */
+@media only screen and (max-width: 767px) {
+}
+
+/* ========== Tablets 767 to 1024 ========== */
+@media only screen and (max-width: 1023px) {
+}
+
+/* ========== Tablets 1024 to 1280 ========== */
+@media only screen and (max-width: 1200px) {
+  .hero-text-box {
+    width: 100%;
+    padding: 0 2%;
+  }
+}
